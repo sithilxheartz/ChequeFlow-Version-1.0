@@ -2,7 +2,7 @@
 
 ChequeFlow is a smart mobile application designed to streamline operations at Retail Businesses. 
 
-![Main UI](Banners/1.png)
+![Main UI](Banners/13.png)
 
 ---
 
