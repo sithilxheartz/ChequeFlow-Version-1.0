@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "794826948632",
+    "firebase_url": "https://real-time-database-65dc5-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "real-time-database-65dc5",
+    "storage_bucket": "real-time-database-65dc5.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:794826948632:android:86d6c0825a4db537c7436d",
+        "android_client_info": {
+          "package_name": "com.example.cheque_manager"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWckvfUEksOlI8rherjk4i59PEvVT92rw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
